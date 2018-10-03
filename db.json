@@ -1,0 +1,15 @@
+{
+  "posts": [
+    { "id": 1, "title": "Ad proident deserunt occaecat laborum adipisicing anim deserunt irure minim esse Lorem." },
+    { "id": 2, "title": "Duis voluptate sit veniam dolore minim ex nulla nulla adipisicing minim aute anim id qui." },
+    { "id": 3, "title": "Nulla minim consequat ullamco culpa." }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
