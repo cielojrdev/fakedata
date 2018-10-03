@@ -1,15 +1,18 @@
 {
   "posts": [
-    { "id": 1, "title": "Ad proident deserunt occaecat laborum adipisicing anim deserunt irure minim esse Lorem." },
-    { "id": 2, "title": "Duis voluptate sit veniam dolore minim ex nulla nulla adipisicing minim aute anim id qui." },
-    { "id": 3, "title": "Nulla minim consequat ullamco culpa." }
+    { "id": 1, "title": "Ad proident deserunt occaecat laborum adipisicing anim deserunt irure minim esse Lorem.", "date":"October 2, 2018" },
+    { "id": 2, "title": "Duis voluptate sit veniam dolore minim ex nulla nulla adipisicing minim aute anim id qui.", "date":"October 1, 2018" },
+    { "id": 3, "title": "Nulla minim consequat ullamco culpa.", "date":"September 20, 2018" },
+    { "id": 4, "title": "Reprehenderit laborum et eiusmod elit laboris do.", "date":"September 25, 2018" },
+    { "id": 5, "title": "Cupidatat est consectetur elit quis elit consectetur incididunt.", "date":"September 27, 2018" },
+    { "id": 6, "title": "Fugiat reprehenderit ea eu in velit sit et cupidatat reprehenderit do magna ut ex ullamco.", "date":"September 30, 2018" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "cielo reyes"
   }
 }
 
